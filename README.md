@@ -1,6 +1,6 @@
 # 🏈 ClusterRoute
 
-ClusterRoute is a data-driven route clustering analysis project that utilizes techniques such as Dynamic Time Warping (DTW), Multidimensional Scaling (MDS), and KMeans clustering to cluster NFL Reciever Routes.
+ClusterRoute is a data-driven route clustering analysis project that utilizes techniques such as Dynamic Time Warping (DTW), Multidimensional Scaling (MDS), and KMeans clustering to cluster and label NFL Reciever Routes.
 
 ---
 
