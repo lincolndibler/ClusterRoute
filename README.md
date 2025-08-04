@@ -7,9 +7,8 @@ ClusterRoute is a data-driven route clustering analysis project that utilizes te
 ## 📁 Project Structure
 
 The core contents include:
-- `notebooks/` — Jupyter notebooks detailing the clustering workflow
+- `01_Clustering.Ipnyb` — Jupyter notebooks detailing the clustering workflow
 - `src/` — Utility scripts and functions
-- `data/` — Sample datasets used for clustering
 
 ---
 
